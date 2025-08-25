@@ -1,5 +1,5 @@
 # 💫 About Me:
-Atualmente sou estudante e amante de programação<br>Curso o 4° Semestre de ADS<br>Estou realizando uma transição de carreira da área da saúde
+Atualmente sou estudante e amante de programação<br>Curso o 5° Semestre de ADS<br>Estou realizando uma transição de carreira da área da saúde
 
 
 ## 🌐 Socials:
