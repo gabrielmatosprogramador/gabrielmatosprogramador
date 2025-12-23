@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desenvolvedor e amante de programação<br>Formado em Análise e Desenvolvimento de Sistemas<br>Estou realizando uma transição de carreira da área da saúde
+Desenvolvedor e amante de programação 💻<br>Formado em Análise e Desenvolvimento de Sistemas 📚<br>Estou realizando uma transição de carreira da área da saúde 🥼
 
 
 ## 🌐 Socials:
